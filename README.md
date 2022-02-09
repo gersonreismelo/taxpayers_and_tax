@@ -1,2 +1,2 @@
-# taxpayers_and_tax
+# Taxpayers and tax
  Programa que calcula imposto individual ou de compania
